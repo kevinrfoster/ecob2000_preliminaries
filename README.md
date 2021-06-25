@@ -5,24 +5,27 @@ Preliminaries
 
 ## Kevin R Foster, the Colin Powell School at the City College of New York, CUNY
 
-## Fall 2020
+## Fall 2021
 
 From the first class we’re going to zoom along\! So you should get a
 head start before the semester begins.
 
-The course will be online although we will meet Monday evenings
-4:50-6:50 by Zoom. This class works very well remotely since many
-careers in data science involve substantial remote work. You can see
-this as a great preparation for, and investment in, your future.
+The course will be hybrid so we will meet Thursday evenings 5-7 either
+in person or by Zoom. We’ll meet in person at beginning and end of term,
+online in the middle. This class works well remotely since many careers
+in data science involve substantial remote work. You can see this as a
+great preparation for, and investment in, your future. But I want to
+have time in person for you to make connections with peers since that’s
+also important for learning.
 
-Two main things:
+Two main things to prepare for class:
 
   - Review basic stats with Hawkes (on their webpage)
   - Figure out the basics of how to use R (“R Basics for Lecture 1” from
     class page)
 
 Find these at “Preliminaries” from the [course
-page](http://kfoster.ccny.cuny.edu/classes/fall2020/)
+page](http://kfoster.ccny.cuny.edu/classes/fall2021/)
 
 Why? Because soon after term begins, there is a diagnostic test on
 Hawkes that reviews your stats background, so you should get working on
@@ -43,10 +46,10 @@ do.
 
 particularly if you are considering data analytics as career
 
-  - Learn basic programming in R – if you look at the first homework
-    assignment, you’ll see that it requires some basic work with R. Get
-    a head start. Maybe start to read Hadley Wickham, R for Data
-    Science.
+  - Learn more basic programming in R – if you look at the first
+    homework assignment, you’ll see that it requires some basic work
+    with R. Get a head start. Maybe start to read Hadley Wickham, R for
+    Data Science.
 
 ### Basic Stats
 
@@ -79,9 +82,9 @@ topics – there are lots of stats concepts that are good to know in
 general even if they’re not absolutely necessary for this semester.
 
 You will take the diagnostic test on the Hawkes System any time after
-July 26, so if you want to get it out of the way early you can do so, or
+July 15, so if you want to get it out of the way early you can do so, or
 you can wait until term. Either way you have to take the test by
-midnight (local time) on Tuesday September 29, 2020.
+midnight (local time) on Friday September 24, 2021.
 
 There are 2 additional practice exams – these are timed but you can take
 them an unlimited number of times. Your score will be recorded but won’t
@@ -109,22 +112,21 @@ work is to either download and install (free\!) the statistical analysis
 Cloud](https://rstudio.cloud/). The campus computer labs have those
 programs installed. If you haven’t got a computer of your own, you can
 use the cloud version of R Studio as long as you have some internet
-device. Note that this is in beta until Aug 3 so I will send directions
-as that date gets closer.
+device.
 
 My directions about using R are available from the class web page, “R
-Basics for Lecture 1” although note this is not for the cloud version.
+Basics for Lecture 1” although note this is not for the cloud version,
+that has a slightly different login.
 
-With quarantine uncertainty, access to campus labs remains unknown. You
-do not need a home computer of your own for the class but you need at
-least a reliable internet connection for the cloud version of R Studio.
-Cloud R Studio should work with tablet or chromebook or even phone but I
-wouldn’t recommend doing too much coding from your phone’s tiny screen.
-Campus IT has loaner tablets and chromebooks as well as laptops so talk
-with me if you need to borrow technology. We can figure it out but we
-should start soon.
+You do not need a home computer of your own for the class but you need
+either campus access to computer labs or at least a reliable internet
+connection for the cloud version of R Studio. Cloud R Studio should work
+with tablet or chromebook or even phone but I wouldn’t recommend doing
+too much coding from your phone’s tiny screen. Campus IT has loaner
+tablets and chromebooks as well as laptops so talk with me if you need
+to borrow technology. We can figure it out but we should start soon.
 
-You should create a GitHub account, [directions
+You should create a GitHub account, [GitHub overview
 here](https://happygitwithr.com/github-acct.html). GitHub is industry
 standard for sharing code among teams. You will submit homework by
 sending a link to your GitHub project. The whole set of pages, [Happy
