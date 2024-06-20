@@ -5,7 +5,7 @@ Preliminaries
 
 ## Kevin R Foster, the Colin Powell School at the City College of New York, CUNY
 
-## Fall 2023
+## Fall 2024
 
 From the first class we’re going to zoom along! So you should get a head
 start before the semester begins.
@@ -17,7 +17,7 @@ Two main things to prepare for class:
   class page)
 
 Find these at “Preliminaries” from the [course
-page](http://kfoster.ccny.cuny.edu/classes/fall2023/)
+page](http://kfoster.ccny.cuny.edu/classes/fall2024/)
 
 Why? Because soon after term begins, there is a diagnostic test on
 Hawkes that reviews your stats background, so you should get working on
@@ -27,12 +27,11 @@ do.
 
 ### Recommended to do before class begins:
 
-- Review lecture notes up to p. 50 (Lecture 1 slides/video covers pp
-  30-50)
 - Read R Basics for Lecture 1 (available from class webpage) and the
   videos, since this is what we’ll do in the first class.
 - if you have your own computer, install R and RStudio (directions in R
-  Basics videos)
+  Basics videos). Details also in online free textbook, [Kieran Healy,
+  Data Visualization](https://socviz.co/)
 
 ### Might do before class:
 
@@ -74,9 +73,9 @@ topics – there are lots of stats concepts that are good to know in
 general even if they’re not absolutely necessary for this semester.
 
 You will take the diagnostic test on the Hawkes System any time after
-July 27, so if you want to get it out of the way early you can do so, or
+July 26, so if you want to get it out of the way early you can do so, or
 you can wait until term. Either way you have to take the test by 11:59pm
-(local time) on Friday September 29, 2023.
+(local time) on Friday September 27, 2024.
 
 There are 2 additional practice exams – these are timed but you can take
 them an unlimited number of times. Your score will be recorded but won’t
@@ -109,15 +108,14 @@ device, [R-Studio Cloud](https://rstudio.cloud/). .
 
 My directions about using R are available from the class web page, “R
 Basics for Lecture 1” although note this is not for the cloud version,
-that has a slightly different login.
+that has a slightly different interface.
 
-You do not need a home computer of your own for the class but you need
+You do not need a home computer of your own for the class but you’d need
 to come to campus to access computer labs.
 
-You should create a GitHub account, [GitHub overview
-here](https://happygitwithr.com/github-acct.html). GitHub is industry
-standard for sharing code among teams. You will submit homework by
-sending a link to your GitHub project. The whole set of pages, [Happy
-Git with R by Jenny Bryan](https://happygitwithr.com/), is terrific
-although you might not integrate GitHub with R Studio in quite the same
-way especially if you use R Studio Cloud.
+You should create a GitHub account. GitHub is industry standard for
+sharing code among teams. You will submit homework by sending a link to
+your GitHub project. The whole set of pages, [Happy Git with R by Jenny
+Bryan](https://happygitwithr.com/), is terrific although you might not
+integrate GitHub with R Studio in quite the same way especially if you
+use R Studio Cloud.
