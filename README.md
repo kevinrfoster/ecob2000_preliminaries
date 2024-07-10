@@ -40,7 +40,7 @@ particularly if you are considering data analytics as career
 - Learn more basic programming in R – if you look at the first homework
   assignment, you’ll see that it requires some basic work with R. Get a
   head start. Maybe start to read [Hadley Wickham, R for Data
-  Science](https://r4ds.had.co.nz/).
+  Science](https://r4ds.had.co.nz/). Here's [a nice series of videos with real basic R coding](https://cs50.harvard.edu/r/2024/)
 
 ### Basic Stats
 
