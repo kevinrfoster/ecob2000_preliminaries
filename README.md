@@ -5,7 +5,7 @@ Preliminaries
 
 ## Kevin R Foster, the Colin Powell School at the City College of New York, CUNY
 
-## Fall 2024
+## Fall 2025
 
 From the first class we’re going to zoom along! So you should get a head
 start before the semester begins.
@@ -17,7 +17,7 @@ Two main things to prepare for class:
   class page)
 
 Find these at “Preliminaries” from the [course
-page](http://kfoster.ccny.cuny.edu/classes/fall2024/)
+page](http://kfoster.ccny.cuny.edu/classes/fall2025/)
 
 Why? Because soon after term begins, there is a diagnostic test on
 Hawkes that reviews your stats background, so you should get working on
