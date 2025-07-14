@@ -75,7 +75,7 @@ general even if they’re not absolutely necessary for this semester.
 You will take the diagnostic test on the Hawkes System any time after
 July 26, so if you want to get it out of the way early you can do so, or
 you can wait until term. Either way you have to take the test by 11:59pm
-(local time) on Friday September 27, 2024.
+(local time) on Friday September 26, 2025.
 
 There are 2 additional practice exams – these are timed but you can take
 them an unlimited number of times. Your score will be recorded but won’t
